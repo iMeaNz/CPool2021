@@ -9,4 +9,5 @@ The following five operators must be supported:
 • ’*’ for multiplication  
 • ‘%’ for modulo.  
 The function must also handle any number of parenthesis.  
+The only system functions allowed are write, malloc and free  
 ![example](https://github.com/iMeaNz/CPool2021/blob/main/eval_expr/example.png?raw=true) 
